@@ -1,6 +1,6 @@
-Yarrponent!
+# Yarrponent!
 
-A web component starter kit.
+> A web component starter kit.
  
 ### Features
  ✓ Next generation JavaScript support via [Babel](http://babeljs.io/).
@@ -19,7 +19,7 @@ A web component starter kit.
  
  ✓ Pre-configured with Internationalization support by [Format.JS](http://formatjs.io/react/).
  
-### Getting Started
+### Install
 
 Start by cloning this repo and installing project dependencies:
 
