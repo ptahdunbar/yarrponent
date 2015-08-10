@@ -1,6 +1,6 @@
 {
   "name": "yarrponent",
-  "private" : true,
+  "private": true,
   "version": "0.0.1",
   "license": "GPL2+",
   "description": "Web Component Starter Kit",
@@ -15,6 +15,8 @@
     "start": "parallelshell \"npm run build\" \"npm run serve\""
   },
   "dependencies": {
+    "joi": "^6.6.1",
+    "joi-react": "^1.0.1",
     "react": "^0.13.3",
     "react-intl": "^1.2.0"
   },
